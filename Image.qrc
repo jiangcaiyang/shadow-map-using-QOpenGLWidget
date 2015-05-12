@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cloud_1.png</file>
+        <file>cloud_2.png</file>
+        <file>cloud_3.png</file>
+        <file>biscuit.jpg</file>
+        <file>shining.jpg</file>
+        <file>spiral.jpg</file>
+        <file>wood.jpg</file>
+        <file>color_line.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Common.frag</file>
+        <file>Common.vert</file>
+        <file>Depth.frag</file>
+        <file>Depth.vert</file>
+    </qresource>
+</RCC>
